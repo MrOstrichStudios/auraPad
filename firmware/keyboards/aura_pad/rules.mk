@@ -1,0 +1,15 @@
+MCU = RP2040
+BOOTLOADER = rp2040
+
+OLED_ENABLE = yes
+OLED_DRIVER = ssd1306
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+MOUSEKEY_ENABLE = yes
+
+# Turn on global VIA support framework
+VIA_ENABLE = yes
+LTO_ENABLE = yes
+
+RGBLIGHT_ENABLE = yes
+WS2812_DRIVER = vendor
