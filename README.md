@@ -1,5 +1,5 @@
 # auraPad
-its a mini keypad filled with AURA for the Hackpad mission on "Stardance Hackclub 2026"
+its a mini keypad filled with AURA for the **Hackpad mission on "Stardance Hackclub 2026"**
 ## what it has?  
 ![PCB Design](assets/readme/pcb.png)  
 ![CAD Design](assets/readme/cad.png)  
