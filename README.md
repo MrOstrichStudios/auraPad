@@ -1,6 +1,8 @@
 # auraPad
 its a mini keypad filled with AURA for the Hackpad mission on "Stardance Hackclub 2026"
 ## what it has?  
+![PCB Design](assets/readme/pcb.png)  
+![CAD Design](assets/readme/cad.png)  
 it has a 4 key layout with a custom shell, a rotary encoder with a switch, leds (**flashin**) and an oled with a bongo cat!!! _meow_  
 all keys can be modified with **VIA** (Google AI told me about it and it seems cool!!)
 ## hardest part for me? x_x
