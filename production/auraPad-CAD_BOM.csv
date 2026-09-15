@@ -1,0 +1,25 @@
+﻿Part Name,auraPad-PCB
+Working BOM,"as of September 15, 2026 at 12:32:45 PM UTC"
+Exported by,austinbara2011@gmail.com
+Time of Export,"12:32 PM Sep 15, 2026"
+
+,Part Name,Revision/Version,Description,Part Number,Item Number,Lifecycle,Revision,State,Quantity,Material,Change Order
+,auraPad-PCB,,KiCad electronic assembly,2026-09-10-10-39-36-603,,,,Working,1,,
+1,D_DO-35_SOD27_P7.62mm_Horizontal,,,2026-09-10-10-39-36-606,,,,Working,5,Steel,
+2,PinHeader_1x04_P2.54mm_Vertical,,,2026-09-10-10-39-36-604,,,,Working,1,Steel,
+3,LED_SK6812MINI-E,,,2026-09-10-10-39-36-607,,,,Working,2,Steel,
+4,auraPad_PCB,,,2026-09-10-10-39-36-609,,,,Working,1,Steel,
+5,KS-3X Full Black Switch KS-3A10B060NN-X,,,2026-09-10-10-39-36-605,,,,Working,4,Steel,
+6,æè½¬ç¼ç å¨,,,2026-09-10-10-39-36-608,,,,Working,1,Steel,
+7,Seeed Studio XIAO RP2040 v26,,,2026-09-10-19-30-11-366,,,,Working,1,,
+7.1,main,,,2026-09-10-19-30-11-369,,,,Working,1,,
+7.1.1,Seeed Studio XIAO RP2040 v26,,,2026-09-10-19-30-11-366,,,,Working,1,,
+7.1.2,smd_button v3,,,2026-09-10-19-30-11-368,,,,Working,3,Steel,
+8,r1_100,,STEP AP203,2026-09-10-22-05-12-607,,,,Working,1,Steel,
+9,r1_100 (1),,STEP AP203,2026-09-10-23-06-27-087,,,,Working,1,Steel,
+10,r1_100 (2),,STEP AP203,2026-09-10-23-06-34-304,,,,Working,1,Steel,
+11,r1_100 (3),,STEP AP203,2026-09-11-00-00-16-274,,,,Working,1,Steel,
+12,Top,,,2026-09-14-17-52-42-691,,,,Working,1,Steel,
+13,Rotary Encoder,,,2026-09-14-17-53-26-913,,,,Working,1,Steel,
+14,Bottom,,,2026-09-14-17-51-00-667,,,,Working,1,Steel,
+∞        THERE IS A CIRCULAR REFERENCE IN YOUR ASSEMBLY. NO OTHER COMPONENTS WILL BE LOADED FOR THIS ASSEMBLY.
