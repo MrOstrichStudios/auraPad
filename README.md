@@ -10,3 +10,15 @@ all keys can be modified with **VIA** (Google AI told me about it and it seems c
 the hardest part for me would be the time i had to design the case for it. it took me 5 hours doing it!
 ## so is it cool?
 **OFC**
+# BOM:
+- 4x Cherry MX Switches
+- 4x DSA Keycaps
+- 5x M3x16mm Screws
+- 5x M3x5mx4mm Heatset inserts
+- 1x 0.91 inch OLED Display
+- 1x Seeed XIAO RP2040
+- 1x EC11E Rotary Encoders
+- 5x 1N4148 Diodes
+- 2x SK6812 MINI-E LEDs
+- 1x Case (3 Printed Parts)
+- 1x PCB
