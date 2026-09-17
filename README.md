@@ -10,7 +10,7 @@ all keys can be modified with **VIA** (Google AI told me about it and it seems c
 the hardest part for me would be the time i had to design the case for it. it took me 5 hours doing it!
 ## so is it cool?
 **OFC**
-# BOM:
+## BOM:
 - 4x Cherry MX Switches
 - 4x DSA Keycaps
 - 5x M3x16mm Screws
